@@ -9,7 +9,8 @@ and a pdf file with detail explination and 2 jupyter notebooks.
 **Notebooks**
 * 1. tensorflow 1.x.ipynb
 * 2. tensorflow 2.x.ipynb
-*Notes**
+
+**Notes**
 * 10 tensorflow Advantages.pdf
 #### 2. Artificial Neural Networks (ANN)
 > the second directory in my repo is Artificial neural network, in this directory i have explained each and every thing about ANN in jupyter notebook with markdown and code cells.
@@ -17,6 +18,7 @@ two jupyter notebooks with Churn_modeling.csv dataset. which i pick from kaggle
 
 **Dataset**
 * Churn_modeling
+
 **Notebooks**
 * ANN.ipynb
 * Building_an_artificial_neural_network.ipynb
@@ -26,6 +28,7 @@ two jupyter notebooks with Churn_modeling.csv dataset. which i pick from kaggle
 **Datasets**
 * Churn_modeling.csv
 * Real_Combine.csv
+
 **Notebooks**
 * 1. keras-tuner-hyperparameter-tuning
 * 2. hyperparameter-tuning with keras-tuner
