@@ -1,5 +1,5 @@
 # Complete-Deep-Learning_with_tensorflow-2.x
-this repsository contain deep learning jupyter notebooks with tensorflow 2.x and keras 2.x. i have done many things like deep learning, Artificial neural network (ANN), Convolutional neural network (CNN), Reinforcement neural network (RNN), hyperparameter tuning, tensorflow lite conversion and many more.
+this repsository contain deep learning jupyter notebooks with tensorflow 2.x and keras 2.x. i have done many things like deep learning, Artificial neural network (ANN), Convolutional neural network (CNN), hyperparameter tuning, tensorflow lite conversion and many more.
 
 
 ### <mark>`Complete Deep-Learning/transfer-learning and Deep Neural Network with keras and tensorflow`</mark>
